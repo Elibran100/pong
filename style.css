@@ -1,0 +1,18 @@
+body{
+    background-image: url("pong-gameplay.avif");
+    background-size: cover;
+}
+#jugar{
+    background-color:rgb(135, 255, 255) ;
+    border-color: rgb(0, 151, 151);
+    border-width: 5px;
+}
+#reiniciar{
+    background-color:rgb(175, 255, 122) ;
+    border-color: rgb(98, 181, 106);
+    border-width: 5px;
+}
+#status{
+    text-shadow: 2px 2px 0px rgb(255, 98, 143);
+    color: rgb(254, 210, 255);
+}
